@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+
+**/.idea/
+**/__pycache__/
+**/Article/
+**/data/
+**/Output/
+**/requirements/
+
+
+
